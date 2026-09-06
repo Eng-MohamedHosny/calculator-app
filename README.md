@@ -11,8 +11,8 @@
   <a href="https://github.com/Eng-MohamedHosny/calculator-app">
     <img src="https://img.shields.io/badge/GitHub_Repo-Eng--MohamedHosny-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
-  <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29">
-    <img src="https://img.shields.io/badge/Frontend_Mentor-Challenge-3F51B5?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />
+  <a href="https://www.frontendmentor.io/solutions/calc-tri-theme-responsive-calculator-with-float-safe-engine-MhqIztrggg">
+    <img src="https://img.shields.io/badge/Frontend_Mentor-Solution-3F51B5?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor Solution" />
   </a>
 </p>
 
@@ -31,8 +31,9 @@
 | Deployment | URL | Status |
 | :--- | :--- | :--- |
 | **Official Production** | **[https://calculator-app-live.vercel.app](https://calculator-app-live.vercel.app)** | ![Status](https://img.shields.io/badge/Active-Success-brightgreen?style=flat-square) |
+| **Frontend Mentor Solution** | **[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/calc-tri-theme-responsive-calculator-with-float-safe-engine-MhqIztrggg)** | ![Status](https://img.shields.io/badge/Published-Success-3F51B5?style=flat-square) |
 | **GitHub Repository** | **[Eng-MohamedHosny/calculator-app](https://github.com/Eng-MohamedHosny/calculator-app)** | ![Stars](https://img.shields.io/github/stars/Eng-MohamedHosny/calculator-app?style=flat-square) |
-| **Challenge** | [Frontend Mentor — Calculator App](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) | ![Level](https://img.shields.io/badge/Level-Intermediate-blue?style=flat-square) |
+| **Original Challenge** | [Frontend Mentor — Calculator App](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) | ![Level](https://img.shields.io/badge/Level-Intermediate-blue?style=flat-square) |
 
 ---
 
