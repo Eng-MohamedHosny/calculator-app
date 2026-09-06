@@ -1,8 +1,8 @@
-﻿# Frontend Mentor - Calculator App Solution
+# Frontend Mentor - Calculator App Solution
 
 [![Frontend Mentor Challenge](https://img.shields.io/badge/Frontend_Mentor-Challenge-3F51B5?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
-[![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://calculator-app-9lteq5n29.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-MohamedHosny/calculator-app-9lteq5N29)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://calculator-app-mohamed.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-MohamedHosny/calculator-app)
 [![React 18](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -98,7 +98,7 @@ Each key features 3D depth with an inset shadow (`box-shadow: inset 0 -4px 0 <co
 ## 📁 Project Structure
 
 ```text
-calculator-app-9lteq5N29/
+calculator-app/
 ├── public/               # Static assets & favicon
 ├── screenshots/          # High-resolution desktop & mobile preview images
 │   ├── desktop-preview.png
@@ -127,8 +127,8 @@ calculator-app-9lteq5N29/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Eng-MohamedHosny/calculator-app-9lteq5N29.git
-cd calculator-app-9lteq5N29
+git clone https://github.com/Eng-MohamedHosny/calculator-app.git
+cd calculator-app
 npm install
 ```
 
