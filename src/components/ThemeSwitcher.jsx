@@ -29,14 +29,14 @@ export default function ThemeSwitcher({ theme, setTheme }) {
     <div className="flex items-end gap-6 select-none">
       <span
         id="theme-label"
-        className="text-[12px] font-bold tracking-[1px] text-main uppercase pb-[4px]"
+        className="text-[12px] font-bold tracking-[1px] text-page-text uppercase pb-[4px]"
       >
         Theme
       </span>
 
       <div className="flex flex-col items-center w-[68px]">
         {/* Numbers 1, 2, 3 */}
-        <div className="grid grid-cols-3 w-full text-center text-[12px] font-bold text-main leading-none mb-1">
+        <div className="grid grid-cols-3 w-full text-center text-[12px] font-bold text-page-text leading-none mb-1">
           <button
             type="button"
             onClick={() => setTheme(1)}

@@ -2,7 +2,6 @@ import React, { useState, useEffect, useReducer } from 'react';
 import Header from './components/Header';
 import Screen from './components/Screen';
 import Keypad from './components/Keypad';
-import Footer from './components/Footer';
 import {
   calculatorReducer,
   INITIAL_STATE,
@@ -80,13 +79,12 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-main flex flex-col justify-between items-center px-6 py-8 md:py-14 transition-colors duration-200">
+    <div className="min-h-screen bg-page flex flex-col justify-between items-center px-6 py-8 md:py-14 transition-colors duration-200">
       <main className="w-full max-w-[327px] md:max-w-[540px] flex flex-col gap-6 my-auto">
         <Header theme={theme} setTheme={setTheme} />
         <Screen current={calcState.current} previous={calcState.previous} />
         <Keypad dispatch={dispatch} />
       </main>
-      <Footer />
     </div>
   );
 }

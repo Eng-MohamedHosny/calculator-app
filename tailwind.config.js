@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'main': 'var(--bg-main)',
+        'page': 'var(--bg-main)',
+        'page-text': 'var(--text-main)',
         'keypad': 'var(--bg-keypad)',
         'screen': 'var(--bg-screen)',
-        'text-main': 'var(--text-main)',
         'key-digit': {
           DEFAULT: 'var(--key-digit-bg)',
           hover: 'var(--key-digit-hover)',

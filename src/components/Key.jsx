@@ -36,7 +36,7 @@ export default function Key({
       type="button"
       aria-label={ariaLabel || label}
       onClick={onClick}
-      className={`h-16 w-full rounded-[5px] md:rounded-[10px] font-bold flex items-center justify-center pb-[2px] cursor-pointer transition-all duration-75 select-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-text-main ${spanClasses} ${variantClasses} ${textClasses}`}
+      className={`h-16 w-full rounded-[5px] md:rounded-[10px] font-bold flex items-center justify-center pb-[2px] cursor-pointer transition-all duration-75 select-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-page-text ${spanClasses} ${variantClasses} ${textClasses}`}
     >
       {label}
     </button>
