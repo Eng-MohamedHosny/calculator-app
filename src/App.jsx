@@ -9,6 +9,13 @@ import {
 } from './lib/calculator';
 
 function getInitialTheme() {
+  try {
+    const urlParams = new URLSearchParams(window.location.search);
+    const qTheme = urlParams.get('theme');
+    if (qTheme && ['1', '2', '3'].includes(qTheme)) {
+      return parseInt(qTheme, 10);
+    }
+  } catch {}
   const saved = localStorage.getItem('calc-theme');
   if (saved && ['1', '2', '3'].includes(saved)) {
     return parseInt(saved, 10);
